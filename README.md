@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/382600553/nashTest/_apis/build/status/NashiCoding.Apppipelines?branchName=master)](https://dev.azure.com/382600553/nashTest/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
